@@ -4,6 +4,7 @@
 <title>Page Title</title>
 </head>
 <body>
+ <img src="Carenang.jpg" alt="Pemandangan Sunset" width="200" height="100">
  <img src="Carenang.jpg" alt="Pemandangan Sunset">
  <font size="4"
 <h1>PEMANDANGAN</h1>
