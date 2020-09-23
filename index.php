@@ -5,7 +5,7 @@
 </head>
 <body>
  <img src="Carenang.jpg" alt="Pemandangan Sunset">
-<h1>This is a Heading</h1>
+<h1>PEMANDANGAN</h1>
 <p>Nama saya wahyu aditya</p>
 
 </body>
