@@ -4,7 +4,7 @@
 <title>Tugas Cloud</title>
 </head>
 <body>
- <h1>Fasilitas UIN Syarif Hidayatullah Jakarta </h1> <align "justify center"
+ <h1>Fasilitas UIN Syarif Hidayatullah Jakarta </h1> <text-align: center;"
                                             
  <img src="StudentCenter.jpg" alt="Setudent Center" width="20%" height="20%" style="display: block; margin: auto;">>
  
