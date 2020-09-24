@@ -6,7 +6,7 @@
 <body>
  <img src="Carenang.jpg" alt="Pemandangan Sunset" width="500" height="250">
  <font size="4"
-<h1>PEMANDANGAN</h1>
+<h1>PEMANDANGAN</h1> <align "justify center"
 <p>Nama saya wahyu aditya</p>
 
 </body>
