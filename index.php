@@ -68,7 +68,7 @@
       <h5>Jakarat, Sep 25, 2020</h5>
        <img src="Suasana SFH.jpg">
       <p>Study From Home</p>
-      <font class="justify; text-ident=0,5in;" size="4", face="Times New Roman"> Foto tersebut merupakan suatu gambaran saya selama melakukan Study From Home, Adapun yang saya lakukan di sela-sela waktu ketika sedang mengerjakan tugas ataupun belajar di rumah yaitu mendengarkan lagu dan segelas kopi yang setia menemani saya ketika sedang kuliah daring ataupun sedang nugas. Kedua hal tersebut sepertinya sudah menjadi kebiasaan bagi saya dalam mensiasati rasa jenuh ketika saya hanya diam dirumah, selain itu saya juga kadang menonton beberapa film yang mana untuk sekedar menghibur dan menyegarkan otak. Dari kisah tersebutlah saya dapat katakan bahwasannya semua tidak perlu untuk dibawa susah, apapun situasi dan kondisi yang ada tetaplah semangat dan jangan lupa berdo'a pada sang pencipta ;)  </font><br>
+      <font style="text-align:justify; text-ident=0,5in;" size="4", face="Times New Roman"> Foto tersebut merupakan suatu gambaran saya selama melakukan Study From Home, Adapun yang saya lakukan di sela-sela waktu ketika sedang mengerjakan tugas ataupun belajar di rumah yaitu mendengarkan lagu dan segelas kopi yang setia menemani saya ketika sedang kuliah daring ataupun sedang nugas. Kedua hal tersebut sepertinya sudah menjadi kebiasaan bagi saya dalam mensiasati rasa jenuh ketika saya hanya diam dirumah, selain itu saya juga kadang menonton beberapa film yang mana untuk sekedar menghibur dan menyegarkan otak. Dari kisah tersebutlah saya dapat katakan bahwasannya semua tidak perlu untuk dibawa susah, apapun situasi dan kondisi yang ada tetaplah semangat dan jangan lupa berdo'a pada sang pencipta ;)  </font><br>
     </div>
   </div>
 </div>
