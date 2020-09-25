@@ -64,7 +64,7 @@
       <p>PERPUSTAKAAN UMUM</p>
       <font size="5", face="Times New Roman"> Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
       <br>
-      <h2>TITLE HEADING</h2>
+      <h2>Study From Home</h2>
       <h5>Title description, Sep 2, 2017</h5>
        <img src="Suasana SFH.jpg">
       <p>Study From Home</p>
@@ -74,7 +74,7 @@
 </div>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Footer</p>
+  <p>©whyadtya</p>
 </div>
 
 </body>
