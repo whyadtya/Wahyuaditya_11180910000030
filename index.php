@@ -66,7 +66,7 @@
       <br>
       <h2>TITLE HEADING</h2>
       <h5>Title description, Sep 2, 2017</h5>
-       <img src="SuasanaSFH.jpg">
+       <img src="Suasana SFH.jpg">
       <p>Study From Home</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
     </div>
