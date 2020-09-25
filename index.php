@@ -18,7 +18,6 @@
 
 <div class="jumbotron text-center" style="margin-bottom:0">
   <h1>Wahyu Aditya Blog</h1>
-  <p>Resize this responsive page to see the effect!</p> 
 </div>
 
 <nav class="navbar navbar-inverse">
@@ -75,6 +74,11 @@
 
 <div class="jumbotron text-center" style="margin-bottom:0">
   <p>©whyadtya</p>
+     <style>
+  {
+    height: 200px;
+    background: #8A2BE2;
+  }
 </div>
 
 </body>
