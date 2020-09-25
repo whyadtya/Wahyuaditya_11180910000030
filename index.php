@@ -44,7 +44,7 @@
   <div class="row">
     <div class="col-sm-4">
       <h2>Tentang Saya</h2>
-      <h5>Photo of me:</h5>
+      <h5>Wahyu Adi Tya</h5>
       <img src="whyadtya.JPG" width="350px" height="200px" style="list-style:none; margin-left:-40px>
       <pre> Nama     : WAHYU ADI TYA
          Semester    : 5 (Lima)
