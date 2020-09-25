@@ -17,7 +17,7 @@
 <body>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <h1>Wahyu Aditya Blog</h1>
+  <h1>whyadtya.com</h1>
 </div>
 
 <nav class="navbar navbar-inverse">
@@ -28,13 +28,13 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">WebSiteName</a>
+      <a class="navbar-brand" href="#">whyadtya.com</a>
     </div>
     <div class="collapse navbar-collapse" id="whyadtya.com">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
         <li><a href="#">Data Diri</a></li>
-        <li><a href="#">Biografi 3</a></li>
+        <li><a href="#">Biografi</a></li>
       </ul>
     </div>
   </div>
@@ -75,7 +75,7 @@
 </div>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>©whyadtya</p>
+  <p>©Wahyu Adi Tya</p>
      <style>
   {
     height: 200px;
