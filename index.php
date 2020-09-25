@@ -62,7 +62,7 @@
       <h5>Tangerang Selatan, Sep 15, 2020</h5>
       <img src="Perpustakaan Umum.jpg" alt"Perpustakaan">
       <p>PERPUSTAKAAN UMUM</p>
-      <p style="font-size:11px"> Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p style="font-size:30px"> Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
       <br>
       <h2>TITLE HEADING</h2>
       <h5>Title description, Sep 2, 2017</h5>
