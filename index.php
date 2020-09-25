@@ -10,7 +10,7 @@
   <style>
   .fakeimg {
     height: 200px;
-    background: #aaa;
+    background: #000080;
   }
   </style>
 </head>
