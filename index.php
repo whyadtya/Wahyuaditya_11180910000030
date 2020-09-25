@@ -60,7 +60,7 @@
     <div class="col-sm-8">
       <h2>PERPUSTAKAAN UMUM</h2>
       <h5>Tangerang Selatan, Sep 15, 2020</h5>
-      <img src="PerpustakaanUmum.jpg">
+      <img src="PerpustakaanUmum.jpg" alt"Perpustakaan">
       <p>PERPUSTAKAAN UMUM</p>
       <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
       <br>
