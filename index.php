@@ -46,7 +46,7 @@
     <div class="col-sm-4">
       <h2>About Me</h2>
       <h5>Photo of me:</h5>
-      <img src="whyadtya.JPG" width="350px" height="197px">
+      <img src="whyadtya.JPG" width="350px" height="197px" style="list-style:none; margin-left:-40px>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
       <h3>Some Links</h3>
       <p>Lorem ipsum dolor sit ame.</p>
