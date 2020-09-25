@@ -46,7 +46,7 @@
       <h2>Tentang Saya</h2>
       <h5>Photo of me:</h5>
       <img src="whyadtya.JPG" width="350px" height="200px" style="list-style:none; margin-left:-40px>
-      <p>Nama     : WAHYU ADI TYA
+      <p Nama     : WAHYU ADI TYA
          Semester : 5 (Lima)
       </p>
       <h3>Some Links</h3>
@@ -69,7 +69,7 @@
       <h5>Jakarat, 15 September 2020</h5>
        <img src="Suasana SFH.jpg">
       <p>Study From Home</p>
-      <font class="justify" size="4", face="Times New Roman"> Foto tersebut merupakan suatu gambaran saya selama melakukan Study From Home, Adapun yang saya lakukan di sela-sela waktu ketika sedang mengerjakan tugas ataupun belajar di rumah yaitu mendengarkan lagu dan segelas kopi yang setia menemani saya ketika sedang kuliah daring ataupun sedang nugas. Kedua hal tersebut sepertinya sudah menjadi kebiasaan bagi saya dalam mensiasati rasa jenuh ketika saya hanya diam dirumah, selain itu saya juga kadang menonton beberapa film yang mana untuk sekedar menghibur dan menyegarkan otak. Dari kisah tersebutlah saya dapat katakan bahwasannya semua tidak perlu untuk dibawa susah, apapun situasi dan kondisi yang ada tetaplah semangat dan jangan lupa berdo'a pada sang pencipta ;)  </font><br>
+      <font class="justify" size="4", face="Times New Roman"> Foto tersebut merupakan suatu gambaran saya selama melakukan Study From Home, Adapun yang saya lakukan di sela-sela waktu ketika sedang mengerjakan tugas ataupun belajar di rumah yaitu mendengarkan lagu dengan ditemani segelas kopi yang setia menemani saya ketika sedang kuliah daring ataupun sedang nugas. Kedua hal tersebut sepertinya sudah menjadi kebiasaan bagi saya dalam mensiasati rasa jenuh ketika saya hanya diam dirumah, selain itu saya juga kadang menonton beberapa film yang mana untuk sekedar menghibur dan menyegarkan otak. Dari kisah tersebutlah saya dapat katakan bahwasannya semua tidak perlu untuk dibawa susah, apapun situasi dan kondisi yang ada tetaplah semangat dan jangan lupa berdo'a pada sang pencipta ;)  </font><br>
     </div>
   </div>
 </div>
