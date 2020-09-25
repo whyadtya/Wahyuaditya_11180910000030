@@ -58,16 +58,11 @@
       <hr class="hidden-sm hidden-md hidden-lg">
     </div>
     <div class="col-sm-8">
-      <style type="text/css">
-        h2 { font-family: "Times New Roman"; }
-        h3 { font-family: Cambria,"Times New Roman",serif; }
-         redaksi1 { font-family: Georgia, serif; }
-</style>
       <h2>PERPUSTAKAAN UMUM</h2>
       <h5>Tangerang Selatan, Sep 15, 2020</h5>
       <img src="Perpustakaan Umum.jpg" alt"Perpustakaan">
       <p>PERPUSTAKAAN UMUM</p>
-      <p id=redaksi1 style="font-size:25px"> Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <p id=redaksi1 style="font-size:25px", fice="Times New Roman"> Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
       <br>
       <h2>TITLE HEADING</h2>
       <h5>Title description, Sep 2, 2017</h5>
