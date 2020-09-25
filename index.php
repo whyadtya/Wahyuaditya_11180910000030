@@ -46,9 +46,9 @@
       <h2>Tentang Saya</h2>
       <h5>Photo of me:</h5>
       <img src="whyadtya.JPG" width="350px" height="200px" style="list-style:none; margin-left:-40px>
-      <p Nama     : WAHYU ADI TYA
-         Semester : 5 (Lima)
-      </p>
+      <pre> Nama     : WAHYU ADI TYA
+         Semester    : 5 (Lima)
+      </pre>
       <h3>Some Links</h3>
       <p>Lorem ipsum dolor sit ame.</p>
       <ul class="nav nav-pills nav-stacked">
